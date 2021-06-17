@@ -1,4 +1,4 @@
-nterface Chain{
+interface Chain{
     public void setNextChain(Chain c);
     public void calculate(Number num);
 }
